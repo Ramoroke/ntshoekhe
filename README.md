@@ -19,4 +19,4 @@ The following must be done to run the code after download:
 
     # Then create a node
     - ./main createNode "node-name" "node-port"
-    - the above step can then be repeated in a different terminal window or tab but in the same folder to simulate creating a 		second node.
+    - the above step can then be repeated in a different terminal window or tab but in the same folder to simulate creating a second node.
