@@ -11,6 +11,14 @@ Ntsoekhe is a distributed database system designed to provide users with the abi
 - **Full Data Replication**: Ensures that data stored in each node is fully replicated across all other nodes, ensuring data consistency and availability.
 - **Node Management**: Each node manages its own database file, creating it if it doesn't exist, and appropriately handles deletion events, notifying other nodes of its removal from the cluster.
 
+
+## Notice
+
+🚧 **This repository is under construction.** 🚧
+
+The development of Ntsoekhe Database is ongoing. Feel free to explore the code and contribute to the project. However, please note that the current state of the repository may be incomplete or unstable.
+
+
 ## Getting Started
 
 To get started with Ntsoekhe Database, follow these steps:
